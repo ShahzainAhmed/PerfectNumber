@@ -1,6 +1,7 @@
 # Taking input from the user.
 n = int(input("Enter any number: "))
 
+# Declaring and initializing a variable.
 sum1 = 0
 
 for i in range(1, n):
