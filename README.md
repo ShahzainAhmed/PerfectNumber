@@ -7,3 +7,4 @@
 - Initialize a variable to count the sum of the proper divisors to 0.
 - Use a for loop and an if statement to add the proper divisors of the integer to the sum variable.
 - Check if the sum of the proper divisors of the number is equal to the variable.
+- Print the final result.
